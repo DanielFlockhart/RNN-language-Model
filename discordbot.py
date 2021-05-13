@@ -39,4 +39,4 @@ async def on_message(message):
         channel = message.author.voice.channel
         voice_gen.save_sound("Hello there - i have now joined the Voice call")
         channel = await channel.connect()
-client.run('ODA2OTkxNjcxNTgwODE5NDY2.YBxfjw.GiHYSA_ILKHY2ohUCtn04ycCh2I')
+client.run('')
